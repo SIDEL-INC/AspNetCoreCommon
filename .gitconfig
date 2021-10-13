@@ -1,7 +1,7 @@
 [user]
     name = Kangjun Heo
     email = kheo@sidel.tech
-    signingkey = 39FF7E4CEEFE559FDC26CBD11EE80AA0DFB75382
+    signingkey = 804CA0181A9F89C1D15FFAFBD0722F64010C9968
 
 [commit]
     gpgsign = true
